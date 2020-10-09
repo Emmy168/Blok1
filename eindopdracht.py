@@ -55,7 +55,6 @@ ggd()
 temp = float(input("Wat is uw lichaamstemperatuur? "))
 temperatuur(temp)
 
-
 #Lijst van klachten
 klachten_lijst = []
 
